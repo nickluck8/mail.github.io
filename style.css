@@ -21,3 +21,31 @@
     border: 0;
     padding: 10px
 }
+
+.td-table2 {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d7d7d7;
+}
+
+.border-top {
+    border-top: 1px solid #d7d7d7;
+}
+
+.good-name {
+    padding: 20px 20px 20px 0;
+    font-size: 20px;
+    border-bottom: 1px solid #d7d7d7
+}
+
+.good-amount {
+    padding: 20px 20px 20px 0;
+    font-size: 20px;
+    border-bottom: 1px solid #d7d7d7
+}
+
+.good-price {
+    padding: 20px 0;
+    font-weight: bold;
+    font-size: 20px;
+    border-bottom: 1px solid #d7d7d7
+}
