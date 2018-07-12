@@ -1,0 +1,23 @@
+.blue {
+    color: #58b9dc;
+}
+
+.padding-style {
+    padding-bottom: 20px;
+}
+
+.grey-font {
+    color: #a8a7a7;
+}
+
+.font-normal {
+    font-weight: normal;
+}
+
+.head-menu {
+    text-transform: uppercase;
+    width: 10%;
+    color: #46b4da;
+    border: 0;
+    padding: 10px
+}
